@@ -44,7 +44,7 @@ This bot generates a random number between two user-provided values using a simp
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](/LICENSE).
 
 ## Acknowledgments
 
